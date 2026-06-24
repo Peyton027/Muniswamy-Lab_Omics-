@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+
+
+# Keep raw and derived data local
+*.csv
+*.tsv
+*.xlsx
+*.h5ad
+*.zip
+
